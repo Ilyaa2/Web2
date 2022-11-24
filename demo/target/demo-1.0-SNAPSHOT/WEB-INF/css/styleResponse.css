@@ -1,0 +1,28 @@
+table{
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 1px solid black;
+}
+tr,td{
+    padding: 5px;
+    border: 1px solid black;
+    font-size: 23px;
+}
+.green{
+    background-color: rgb(106, 206, 106);
+}
+
+.red{
+    background-color: rgb(244, 81, 81);
+}
+
+#link{
+    display: block;
+    margin: 0 auto;
+    width: 105px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aqua;
+    background-color: goldenrod ;
+    font-size: 23px;
+}
